@@ -11,8 +11,8 @@
 
 .img {
   margin: 20px 20px 20px 20px;
-  height: 450px;
-  width: 50%;
+  height: 30%;
+  width: 30%;
   display: inline;
 }
 
@@ -76,6 +76,7 @@ nav a:hover {
   border-color: grey;
   border-width: 5px;
   width: 5%;
+    
 }
 
 .hr {
@@ -89,7 +90,7 @@ nav a:hover {
 
 .kenzotext {
   padding-top: 80px;
-  margin-right: 1000px;
+  margin-right: 1200px;
 }
 
 #Dream {
