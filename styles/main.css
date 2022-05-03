@@ -104,3 +104,25 @@ nav a:hover {
   height: 40%;
 
 }
+
+.house {
+  width: 40%;
+  height: 40%;
+  float:left;
+  padding-left: 5%;
+}
+
+.HtmlCSSJS {
+  width: 40%;
+  height: 40%;
+  float:right;
+  padding-right: 5%;
+}
+
+.control {
+  margin-top: 25%;
+}
+
+code {
+  font-family: monospace;
+}
